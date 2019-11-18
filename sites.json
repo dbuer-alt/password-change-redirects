@@ -1,0 +1,666 @@
+[
+    {
+        "domain": "google.com",
+        "url": ""
+    },
+    {
+        "domain": "youtube.com",
+        "url": ""
+    },
+    {
+        "domain": "facebook.com",
+        "url": ""
+    },
+    {
+        "domain": "wikipedia.org",
+        "url": ""
+    },
+    {
+        "domain": "yahoo.com",
+        "url": ""
+    },
+    {
+        "domain": "amazon.com",
+        "url": ""
+    },
+    {
+        "domain": "reddit.com",
+        "url": ""
+    },
+    {
+        "domain": "netflix.com",
+        "url": ""
+    },
+    {
+        "domain": "live.com",
+        "url": ""
+    },
+    {
+        "domain": "blogspot.com",
+        "url": ""
+    },
+    {
+        "domain": "instagram.com",
+        "url": ""
+    },
+    {
+        "domain": "aliexpress.com",
+        "url": ""
+    },
+    {
+        "domain": "bing.com",
+        "url": ""
+    },
+    {
+        "domain": "twitch.tv",
+        "url": ""
+    },
+    {
+        "domain": "twitter.com",
+        "url": ""
+    },
+    {
+        "domain": "ebay.com",
+        "url": ""
+    },
+    {
+        "domain": "microsoft.com",
+        "url": ""
+    },
+    {
+        "domain": "stackoverflow.com",
+        "url": ""
+    },
+    {
+        "domain": "office.com",
+        "url": ""
+    },
+    {
+        "domain": "apple.com",
+        "url": ""
+    },
+    {
+        "domain": "imdb.com",
+        "url": ""
+    },
+    {
+        "domain": "adobe.com",
+        "url": ""
+    },
+    {
+        "domain": "wordpress.com",
+        "url": ""
+    },
+    {
+        "domain": "msn.com",
+        "url": ""
+    },
+    {
+        "domain": "myshopify.com",
+        "url": ""
+    },
+    {
+        "domain": "spotify.com",
+        "url": ""
+    },
+    {
+        "domain": "linkedin.com",
+        "url": ""
+    },
+    {
+        "domain": "booking.com",
+        "url": ""
+    },
+    {
+        "domain": "roblox.com",
+        "url": ""
+    },
+    {
+        "domain": "tumblr.com",
+        "url": ""
+    },
+    {
+        "domain": "dropbox.com",
+        "url": ""
+    },
+    {
+        "domain": "fandom.com",
+        "url": ""
+    },
+    {
+        "domain": "espn.com",
+        "url": ""
+    },
+    {
+        "domain": "whatsapp.com",
+        "url": ""
+    },
+    {
+        "domain": "bbc.com",
+        "url": ""
+    },
+    {
+        "domain": "soundcloud.com",
+        "url": ""
+    },
+    {
+        "domain": "canva.com",
+        "url": ""
+    },
+    {
+        "domain": "paypal.com",
+        "url": ""
+    },
+    {
+        "domain": "imgur.com",
+        "url": ""
+    },
+    {
+        "domain": "walmart.com",
+        "url": ""
+    },
+    {
+        "domain": "stackexchange.com",
+        "url": ""
+    },
+    {
+        "domain": "medium.com",
+        "url": ""
+    },
+    {
+        "domain": "amazonaws.com",
+        "url": ""
+    },
+    {
+        "domain": "github.com",
+        "url": ""
+    },
+    {
+        "domain": "nytimes.com",
+        "url": ""
+    },
+    {
+        "domain": "discordapp.com",
+        "url": ""
+    },
+    {
+        "domain": "chase.com",
+        "url": ""
+    },
+    {
+        "domain": "nih.gov",
+        "url": ""
+    },
+    {
+        "domain": "cnet.com",
+        "url": ""
+    },
+    {
+        "domain": "indeed.com",
+        "url": ""
+    },
+    {
+        "domain": "bestbuy.com",
+        "url": ""
+    },
+    {
+        "domain": "wikihow.com",
+        "url": ""
+    },
+    {
+        "domain": "alibaba.com",
+        "url": ""
+    },
+    {
+        "domain": "theguardian.com",
+        "url": ""
+    },
+    {
+        "domain": "cnn.com",
+        "url": ""
+    },
+    {
+        "domain": "instructure.com",
+        "url": ""
+    },
+    {
+        "domain": "etsy.com",
+        "url": ""
+    },
+    {
+        "domain": "pinterest.com",
+        "url": ""
+    },
+    {
+        "domain": "freepik.com",
+        "url": ""
+    },
+    {
+        "domain": "salesforce.com",
+        "url": ""
+    },
+    {
+        "domain": "force.com",
+        "url": ""
+    },
+    {
+        "domain": "udemy.com",
+        "url": ""
+    },
+    {
+        "domain": "primevideo.com",
+        "url": ""
+    },
+    {
+        "domain": "w3schools.com",
+        "url": ""
+    },
+    {
+        "domain": "disneyplus.com",
+        "url": ""
+    },
+    {
+        "domain": "craigslist.org",
+        "url": ""
+    },
+    {
+        "domain": "slideshare.net",
+        "url": ""
+    },
+    {
+        "domain": "ask.com",
+        "url": ""
+    },
+    {
+        "domain": "mediafire.com",
+        "url": ""
+    },
+    {
+        "domain": "zoho.com",
+        "url": ""
+    },
+    {
+        "domain": "hulu.com",
+        "url": ""
+    },
+    {
+        "domain": "shutterstock.com",
+        "url": ""
+    },
+    {
+        "domain": "washingtonpost.com",
+        "url": ""
+    },
+    {
+        "domain": "quizlet.com",
+        "url": ""
+    },
+    {
+        "domain": "duckduckgo.com",
+        "url": ""
+    },
+    {
+        "domain": "dailymotion.com",
+        "url": ""
+    },
+    {
+        "domain": "telegram.org",
+        "url": ""
+    },
+    {
+        "domain": "archive.org",
+        "url": ""
+    },
+    {
+        "domain": "ladbible.com",
+        "url": ""
+    },
+    {
+        "domain": "vice.com",
+        "url": ""
+    },
+    {
+        "domain": "godaddy.com",
+        "url": ""
+    },
+    {
+        "domain": "scribd.com",
+        "url": ""
+    },
+    {
+        "domain": "researchgate.net",
+        "url": ""
+    },
+    {
+        "domain": "academia.edu",
+        "url": ""
+    },
+    {
+        "domain": "gfycat.com",
+        "url": ""
+    },
+    {
+        "domain": "vimeo.com",
+        "url": ""
+    },
+    {
+        "domain": "wellsfargo.com",
+        "url": ""
+    },
+    {
+        "domain": "quora.com",
+        "url": ""
+    },
+    {
+        "domain": "hubspot.com",
+        "url": ""
+    },
+    {
+        "domain": "grammarly.com",
+        "url": ""
+    },
+    {
+        "domain": "forbes.com",
+        "url": ""
+    },
+    {
+        "domain": "zillow.com",
+        "url": ""
+    },
+    {
+        "domain": "office365.com",
+        "url": ""
+    },
+    {
+        "domain": "yelp.com",
+        "url": ""
+    },
+    {
+        "domain": "asos.com",
+        "url": ""
+    },
+    {
+        "domain": "wix.com",
+        "url": ""
+    },
+    {
+        "domain": "steamcommunity.com",
+        "url": ""
+    },
+    {
+        "domain": "healthline.com",
+        "url": ""
+    },
+    {
+        "domain": "americanexpress.com",
+        "url": ""
+    },
+    {
+        "domain": "intuit.com",
+        "url": ""
+    },
+    {
+        "domain": "messenger.com",
+        "url": ""
+    },
+    {
+        "domain": "foxnews.com",
+        "url": ""
+    },
+    {
+        "domain": "steampowered.com",
+        "url": ""
+    },
+    {
+        "domain": "blogger.com",
+        "url": ""
+    },
+    {
+        "domain": "tripadvisor.com",
+        "url": ""
+    },
+    {
+        "domain": "sportbible.com",
+        "url": ""
+    },
+    {
+        "domain": "capitalone.com",
+        "url": ""
+    },
+    {
+        "domain": "deviantart.com",
+        "url": ""
+    },
+    {
+        "domain": "weebly.com",
+        "url": ""
+    },
+    {
+        "domain": "businessinsider.com",
+        "url": ""
+    },
+    {
+        "domain": "airbnb.com",
+        "url": ""
+    },
+    {
+        "domain": "target.com",
+        "url": ""
+    },
+    {
+        "domain": "patreon.com",
+        "url": ""
+    },
+    {
+        "domain": "homedepot.com",
+        "url": ""
+    },
+    {
+        "domain": "geeksforgeeks.org",
+        "url": ""
+    },
+    {
+        "domain": "thesaurus.com",
+        "url": ""
+    },
+    {
+        "domain": "breitbart.com",
+        "url": ""
+    },
+    {
+        "domain": "samsung.com",
+        "url": ""
+    },
+    {
+        "domain": "usps.com",
+        "url": ""
+    },
+    {
+        "domain": "xfinity.com",
+        "url": ""
+    },
+    {
+        "domain": "mozilla.org",
+        "url": ""
+    },
+    {
+        "domain": "crunchyroll.com",
+        "url": ""
+    },
+    {
+        "domain": "coinmarketcap.com",
+        "url": ""
+    },
+    {
+        "domain": "gamepedia.com",
+        "url": ""
+    },
+    {
+        "domain": "goodreads.com",
+        "url": ""
+    },
+    {
+        "domain": "nike.com",
+        "url": ""
+    },
+    {
+        "domain": "gstatic.com",
+        "url": ""
+    },
+    {
+        "domain": "buzzfeed.com",
+        "url": ""
+    },
+    {
+        "domain": "wish.com",
+        "url": ""
+    },
+    {
+        "domain": "cloudfront.net",
+        "url": ""
+    },
+    {
+        "domain": "brobible.com",
+        "url": ""
+    },
+    {
+        "domain": "citi.com",
+        "url": ""
+    },
+    {
+        "domain": "sourceforge.net",
+        "url": ""
+    },
+    {
+        "domain": "norton.com",
+        "url": ""
+    },
+    {
+        "domain": "skype.com",
+        "url": ""
+    },
+    {
+        "domain": "aol.com",
+        "url": ""
+    },
+    {
+        "domain": "khanacademy.org",
+        "url": ""
+    },
+    {
+        "domain": "giphy.com",
+        "url": ""
+    },
+    {
+        "domain": "fiverr.com",
+        "url": ""
+    },
+    {
+        "domain": "bankofamerica.com",
+        "url": ""
+    },
+    {
+        "domain": "freelancer.com",
+        "url": ""
+    },
+    {
+        "domain": "epicgames.com",
+        "url": ""
+    },
+    {
+        "domain": "squarespace.com",
+        "url": ""
+    },
+    {
+        "domain": "verizonwireless.com",
+        "url": ""
+    },
+    {
+        "domain": "costco.com",
+        "url": ""
+    },
+    {
+        "domain": "glassdoor.com",
+        "url": ""
+    },
+    {
+        "domain": "coursera.org",
+        "url": ""
+    },
+    {
+        "domain": "jpmorganchase.com",
+        "url": ""
+    },
+    {
+        "domain": "playstation.com",
+        "url": ""
+    },
+    {
+        "domain": "fidelity.com",
+        "url": ""
+    },
+    {
+        "domain": "bloomberg.com",
+        "url": ""
+    },
+    {
+        "domain": "battle.net",
+        "url": ""
+    },
+    {
+        "domain": "shopify.com",
+        "url": ""
+    },
+    {
+        "domain": "coursehero.com",
+        "url": ""
+    },
+    {
+        "domain": "discover.com",
+        "url": ""
+    },
+    {
+        "domain": "leagueoflegends.com",
+        "url": ""
+    },
+    {
+        "domain": "chegg.com",
+        "url": ""
+    },
+    {
+        "domain": "xbox.com",
+        "url": ""
+    },
+    {
+        "domain": "minecraft.net",
+        "url": ""
+    },
+    {
+        "domain": "tiktok.com",
+        "url": ""
+    },
+    {
+        "domain": "badoo.com",
+        "url": ""
+    },
+    {
+        "domain": "icloud.com",
+        "url": ""
+    },
+    {
+        "domain": "ticketmaster.com",
+        "url": ""
+    },
+    {
+        "domain": "verizon.com",
+        "url": ""
+    },
+    {
+        "domain": "delta.com",
+        "url": ""
+    },
+    {
+        "domain": "",
+        "url": ""
+    }
+]
