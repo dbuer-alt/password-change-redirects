@@ -1,19 +1,15 @@
 [
     {
         "domain": "google.com",
-        "url": ""
+        "url": "https://myaccount.google.com/signinoptions/password"
     },
     {
         "domain": "youtube.com",
-        "url": ""
+        "url": "https://myaccount.google.com/signinoptions/password"
     },
     {
         "domain": "facebook.com",
-        "url": ""
-    },
-    {
-        "domain": "wikipedia.org",
-        "url": ""
+        "url": "https://www.facebook.com/settings?tab=security&section=password&view"
     },
     {
         "domain": "yahoo.com",
@@ -21,15 +17,15 @@
     },
     {
         "domain": "amazon.com",
-        "url": ""
+        "url": "https://www.amazon.com/gp/css/homepage.html?ie=UTF8&ref_=nav_youraccount_ya"
     },
     {
         "domain": "reddit.com",
-        "url": ""
+        "url": "https://www.reddit.com/prefs/update/"
     },
     {
         "domain": "netflix.com",
-        "url": ""
+        "url": "https://www.netflix.com/password"
     },
     {
         "domain": "live.com",
@@ -53,11 +49,11 @@
     },
     {
         "domain": "twitch.tv",
-        "url": ""
+        "url": "https://passport.twitch.tv/passwords/new?"
     },
     {
         "domain": "twitter.com",
-        "url": ""
+        "url": "https://twitter.com/settings/password"
     },
     {
         "domain": "ebay.com",
@@ -657,10 +653,6 @@
     },
     {
         "domain": "delta.com",
-        "url": ""
-    },
-    {
-        "domain": "",
         "url": ""
     }
 ]
